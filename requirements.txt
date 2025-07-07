@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+streamlit
+yfinance
+pandas
+python-dateutil
+pytz
+=======
+streamlit
+yfinance
+pandas
+python-dateutil
+pytz
+>>>>>>> b03009aab9eee0e5526354cec271f2c3fd6b415d
